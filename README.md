@@ -8,5 +8,6 @@ Game Rules:
 
 stages:
 1) Create the color squares game.
-2) Connect the app to a realtime DB using firestore.
-3) Every time any user changes the color of a square it’ll be immediately updated on another user’s browser.
+2) Connect the app to a realtime DB using firebase firestore.
+3) Every time any user changes the color of a square in first board it’ll be immediately updated on another board in the same square position.
+
