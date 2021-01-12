@@ -11,4 +11,4 @@ stages:
 2) Connect the app to a realtime DB using firebase firestore.
 3) Every time any user changes the color of a square in first board it’ll be immediately updated on another board in the same square position.
 
-
+look at the file UI_Example.png to see how the UI should looks in browser.
